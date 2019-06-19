@@ -3,9 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+.vscode
+
 # C extensions
 *.so
-
+g
 # Distribution / packaging
 .Python
 build/
